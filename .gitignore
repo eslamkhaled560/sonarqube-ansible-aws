@@ -8,7 +8,6 @@ roles/prerequisite/templates
 roles/prerequisite/tests
 roles/prerequisite/README.md
 
-roles/postgres/defaults
 roles/postgres/files
 roles/postgres/handlers
 roles/postgres/meta
@@ -16,7 +15,6 @@ roles/postgres/templates
 roles/postgres/tests
 roles/postgres/README.md
 
-roles/sonarqube/defaults
 roles/sonarqube/handlers
 roles/sonarqube/meta
 roles/sonarqube/templates
