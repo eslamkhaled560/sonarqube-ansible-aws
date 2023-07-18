@@ -1,0 +1,8 @@
+- name: install sonarqube on public aws instance
+  hosts: sonarqube
+  become: yes
+
+  roles:
+    - prerequisite
+    - postgres
+    - sonarqube
