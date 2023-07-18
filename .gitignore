@@ -8,6 +8,7 @@ roles/prerequisite/templates
 roles/prerequisite/tests
 roles/prerequisite/README.md
 
+roles/postgres/defaults
 roles/postgres/files
 roles/postgres/handlers
 roles/postgres/meta
