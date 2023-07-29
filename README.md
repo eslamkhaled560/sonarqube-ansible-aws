@@ -36,6 +36,11 @@ sudo chmod u+x automate-ansible.sh
 sudo systemctl status sonarqube                # it should be active and running
 ```
 
+- Access SonarQube on the web
+```
+ec2-public-ip-address:9000
+```
+
 - Don't forget to destroy AWS services after you finish
 ```
 terraform destroy
