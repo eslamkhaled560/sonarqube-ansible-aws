@@ -5,8 +5,8 @@ Installed SonarQube as a service on an AWS instance provisioned with Terraform u
 ------------------------------------------
 # Prequisites:
 
-- Terraform installed.
-- Ansible installed.
+- Terraform
+- Ansible
 - Connection established between your machine and AWS with the necessary permissions.
 
 ------------------------------------------
